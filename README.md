@@ -2,6 +2,11 @@
 
 # Learning Use Reducer + Tailwind - React Project
 
+### Home
+- Home page where you can select videos and add you favorite ones.
+
+![](./public/homepage.png)
+
 ## Some code that I'm proud of
 ```js
 const [phrase, setPhrase]= useState('')
