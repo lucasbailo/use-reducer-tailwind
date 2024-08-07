@@ -3,7 +3,7 @@
 # Learning Use Reducer + Tailwind - React Project
 
 ### Home
-- Home page where you can select videos and add you favorite ones.
+- Home page where you can create your list of random things.
 
 ![](./public/homepage.png)
 
