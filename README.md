@@ -30,7 +30,7 @@ dispatch({
 - REACT;
 - Tailwind.
 
-## Test the project yourself: [Teste the project here!!!](#)
+## Test the project yourself: [Teste the project here!!!](https://use-reducer-tailwind.vercel.app/)
 
 ## Author
 
